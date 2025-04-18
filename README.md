@@ -1,2 +1,2 @@
-# example
+# mi repository example
 example repository
